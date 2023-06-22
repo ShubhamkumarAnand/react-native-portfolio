@@ -1,7 +1,7 @@
 {
   "editor.fontFamily": "'JetBrains', monospace",
   "editor.fontSize": 18,
-  "editor.lineHeight": 38,
+  "editor.lineHeight": 35,
   "editor.letterSpacing": 0.5,
   "files.trimTrailingWhitespace": true,
   "editor.fontWeight": "normal",
@@ -13,4 +13,5 @@
   "cSpell.words": [
     "Pressable"
   ],
+  "workbench.colorTheme": "Astro Dark"
 }
